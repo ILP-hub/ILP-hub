@@ -1,10 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ILP
+Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="50" height="50" /> My name is ILP
 ===========================================================================================================================
 
 Mobile and Web development
 --------------------------
 
-🌐 Web Development: Junior 🖥️ Backend Development: Junior 📱 Mobile Development: Mid-level
+🌐 Web Development: Junior 
+🖥️ Backend Development: Junior 
+📱 Mobile Development: Mid-level
 
 ### Skills
 
