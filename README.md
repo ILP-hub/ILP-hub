@@ -1,8 +1,5 @@
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="50" height="50" /> My name is ILP
 
-### Mobile and Web Development
---------------------------
-
 - 🌐 **Web Development**: Junior  
 - 🖥️ **Backend Development**: Junior  
 - 📱 **Mobile Development**: Mid-level
