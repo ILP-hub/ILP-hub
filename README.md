@@ -56,8 +56,6 @@
 
 [![ILP-hub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ILP-hub&show_icons=true&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true)](http://www.github.com/ILP-hub)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ILP-hub&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/ILP-hub)
-
 ---
 
 #### Top Languages
