@@ -175,8 +175,9 @@
 
 ### 📈 Статистика
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ILP-hub&show_icons=true&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILP-hub&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages"/>
+  <!-- Используем альтернативный публичный endpoint, часто работает стабильнее -->
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ILP-hub&show_icons=true&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true" alt="GitHub Stats"/>
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ILP-hub&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages"/>
 </div>
 
 ### 📫 Со мной
